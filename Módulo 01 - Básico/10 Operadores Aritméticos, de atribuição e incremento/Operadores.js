@@ -23,4 +23,4 @@ console.log(num1 / num2);
 console.log(num1 % num2);
 console.log(num1 ** num2);
 console.log(num1 + num2 * num1); //A multiplicação é mais importante então ela vai primeiro
-console.log(num1 + num2 * num1); //Alterando a prescendencia
+console.log((num1 + num2) * num1); //Alterando a prescendencia
